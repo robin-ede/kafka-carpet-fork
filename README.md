@@ -1,6 +1,6 @@
 # Carpet Mod with Kafka Integration
 
-This is a fork of the **Carpet Mod** for Minecraft 1.21.1 that includes Kafka integration to stream item data from Minecraft to a Kafka topic. The mod sends item data whenever a hopper counter is active.
+This is a fork of the [**Carpet Mod**](https://github.com/gnembon/fabric-carpet/) for Minecraft 1.21.1 that includes Kafka integration to stream item data from Minecraft to a Kafka topic. The mod sends item data whenever a hopper counter is active.
 
 ## Installation
 
